@@ -2,7 +2,7 @@
 
 > **非官方中文教程**。原项目 [pbakaus/impeccable](https://github.com/pbakaus/impeccable)（Apache-2.0），本仓库与原作者无关。
 
-📚 免费版只讲“是什么、怎么装、检测器怎么用”。完整版（命令逐个讲解、实战案例、踩坑排错、中文提示词示例）在知识星球：[https://t.zsxq.com/mc4td](https://t.zsxq.com/mc4td)
+📚 免费版只讲“是什么、怎么装、检测器怎么用”。完整版（命令逐个讲解、实战案例、踩坑排错、中文提示词示例）在知识星球「开源抢先站」：[https://t.zsxq.com/mc4td](https://t.zsxq.com/mc4td)
 
 > 适用版本：impeccable npm 包 v4.8.0（内置检测引擎 v0.1.18）｜实测日期：2026-10-30  
 > 文中所有终端输出、截图都来自真机实测，不是 README 的翻译。
@@ -193,9 +193,11 @@ npx impeccable detect --list-rules    # 查看全部 62 条规则
 
 ---
 
-## 加入知识星球看完整版
+## 加入知识星球「开源抢先站」看完整版
 
 完整命令讲解、实战案例、踩坑排错、中文提示词示例：[https://t.zsxq.com/mc4td](https://t.zsxq.com/mc4td)
+
+<img src="images/zsxq-qr.png" alt="开源抢先站 知识星球二维码" width="240">
 
 ---
 
