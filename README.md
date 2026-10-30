@@ -4,6 +4,8 @@
 
 📚 免费版只讲“是什么、怎么装、检测器怎么用”。完整版（命令逐个讲解、实战案例、踩坑排错、中文提示词示例）在知识星球「开源抢先站」：[https://t.zsxq.com/mc4td](https://t.zsxq.com/mc4td)
 
+🎟️ 首发 6 折：新人先领 20 元券，50 元变 30 元（限 50 张，11 月 29 日截止）👉 [领券](https://t.zsxq.com/jk0TT)
+
 > 适用版本：impeccable npm 包 v4.8.0（内置检测引擎 v0.1.18）｜实测日期：2026-10-30  
 > 文中所有终端输出、截图都来自真机实测，不是 README 的翻译。
 
@@ -198,6 +200,8 @@ npx impeccable detect --list-rules    # 查看全部 62 条规则
 完整命令讲解、实战案例、踩坑排错、中文提示词示例：[https://t.zsxq.com/mc4td](https://t.zsxq.com/mc4td)
 
 <img src="images/zsxq-qr.png" alt="开源抢先站 知识星球二维码" width="240">
+
+🎟️ 首发 6 折新人券（20 元，限 50 张，2026-11-29 截止）：[https://t.zsxq.com/jk0TT](https://t.zsxq.com/jk0TT)，先领券再加入更划算。
 
 ---
 
